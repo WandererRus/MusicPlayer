@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicPlayer", "MusicPlayer\MusicPlayer.csproj", "{ABB6C450-D144-4689-B2B2-87DD942F6C22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB6C450-D144-4689-B2B2-87DD942F6C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB6C450-D144-4689-B2B2-87DD942F6C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB6C450-D144-4689-B2B2-87DD942F6C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB6C450-D144-4689-B2B2-87DD942F6C22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B988A7A0-0C38-4D6A-882E-0659036CC39E}
+	EndGlobalSection
+EndGlobal
